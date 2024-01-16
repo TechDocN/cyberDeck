@@ -1,2 +1,2 @@
 # cyberDeck
-A Raspberry Pi 4-based cyberDeck, with a cartridge and RFID-based authentication system and 3D printed enclosure.
+# A Raspberry Pi-based cyberDeck, with an RFID cartridge authentication system and a custom 3D printed enclosure.

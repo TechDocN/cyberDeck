@@ -4,3 +4,5 @@ I discovered the cyberDeck community by accident, while cruising around Reddit o
 
 ![cyberDeck](https://github.com/TechDocN/cyberDeck/assets/130190014/7e4c551a-cee9-4d2c-8c31-423b0594e977)
 
+LICENSES:
+The software and content of this project is licensed under the Creative Commons Attribution Share Alike 4.0 International, and the hardware and hardware design elements are licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal.
